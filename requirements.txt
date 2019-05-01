@@ -1,0 +1,4 @@
+pdftotext
+python-unsplash
+markovify
+random-word
