@@ -2,3 +2,4 @@ pdftotext
 python-unsplash
 markovify
 random-word
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
